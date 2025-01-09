@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 I am a Deep Learning Enthusiast from India.
-- :telescope: I’m working as a Data & Applied Scientist at Microsoft, helping make their [Travel](https://www.bing.com/travel?toWww=1&redig=B579CF7BAE8F4CD8BF5D7348E149542C&form=UNKHUB&entrypoint=UNKHUB) pages make people go WOW.
+- :telescope: I’m working as a Deep Learning Engineer at [Gan.ai](https://gan.ai), trying to help machines speak!
 
 - :seedling: Exploring Technical Content Writing at   [![Gmail Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushtues) and Creating Youtube Videos explaining DL Research Papers at   [![Gmail Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGEWHZv8Gn10Lk56PzCeFMA)
 
